@@ -1,5 +1,13 @@
 # BeeMessagers
+Realtime chat app with websockets using Node.js, Express and Socket.io with Vanilla JS on the frontend with a custom UI
 
-install dependenties with "npm install express socket.io moment"
+## Usage
+```
+npm install
+npm run dev
 
-run it with "npm run dev" 
+Go to localhost:4567
+```
+
+## Notes
+source: https://github.com/bradtraversy/chatcord
